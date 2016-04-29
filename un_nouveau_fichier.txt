@@ -1,1 +1,2 @@
-Dans ce nouveau fichier, je vais inséré du texte en premier lieu
+Dans ce nouveau fichier, 
+je vais inséré du texte et puis effacer une partie de ce texte pour le remplacer par ce que vous êtes en train de lire.
